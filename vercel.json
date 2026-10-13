@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm --prefix pearl-and-sprout-react ci",
+  "buildCommand": "npm --prefix pearl-and-sprout-react run build",
+  "outputDirectory": "pearl-and-sprout-react/dist"
+}
